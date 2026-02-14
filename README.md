@@ -1,6 +1,6 @@
 # Is The Port Open (ITPO)
 
-A simple desktop app to quickly check whether a TCP port is reachable (OPEN/CLOSED/TIMEOUT/DNS_FAIL) across multiple targets — with a clean UI, fast concurrent checks, and persistent saved targets.
+A simple desktop app to quickly check whether a TCP port is reachable (OPEN/CLOSED/TIMEOUT/DNS_FAIL) across multiple targets with a clean UI, fast concurrent checks, and persistent saved targets.
 
 ## Features
 
