@@ -1,7 +1,7 @@
 # Is The Port Open (ITPO)
 
 A simple desktop app to quickly check whether a TCP port is reachable (OPEN/CLOSED/TIMEOUT/DNS_FAIL) across multiple targets with a clean UI, fast concurrent checks, and persistent saved targets.
-This repository used to live in my "Fabrivis-Plugin", but I was having permission problems with forking. So instead of sorting that out, I removed that repository and created one here!
+This repository used to live in my "Fabrivis-Plugin" org, but I was having permission problems with forking. So instead of sorting that out, I removed that repository and created one here!
 
 ## Features
 
